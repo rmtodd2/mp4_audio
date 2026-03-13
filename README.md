@@ -1,6 +1,10 @@
 # MP4 Audio Tool
 
-`mp4_audio.py` is a small Tkinter desktop app for exporting audio from video files with FFmpeg.
+`mp4_audio.py` is a small Tkinter desktop app for adjusting audio in media files with FFmpeg.
+It can change audio gain, mute audio, apply normalization, trim the media, and then save either:
+
+- a new video file with the original video stream copied
+- an audio-only export
 
 ## Requirements
 
