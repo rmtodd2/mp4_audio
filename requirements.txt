@@ -1,0 +1,5 @@
+# This project uses only Python standard-library modules.
+# No pip-installable Python packages are required to run mp4_audio.py.
+#
+# External dependency:
+# - ffmpeg must be installed separately and available on your PATH.
